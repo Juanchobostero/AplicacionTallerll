@@ -1,0 +1,180 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+S-Bank
+</name>
+</assembly>
+<members>
+<member name="P:S_Bank.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:S_Bank.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:S_Bank.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet2.tipoCuentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet2.tipoCuentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet2.tipoCuentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet2TableAdapters.tipoCuentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(S_Bank._S_BankDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(S_Bank._S_BankDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(S_Bank._S_BankDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:S_Bank._S_BankDataSet2TableAdapters.TableAdapterManager.UpdateAll(S_Bank._S_BankDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet.ServiciosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet.ServiciosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet.ServiciosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSetTableAdapters.ServiciosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(S_Bank._S_BankDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(S_Bank._S_BankDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(S_Bank._S_BankDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:S_Bank._S_BankDataSetTableAdapters.TableAdapterManager.UpdateAll(S_Bank._S_BankDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:S_Bank._S_BankDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:S_Bank._S_BankDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet1.proveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet1.proveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet1.proveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet1TableAdapters.proveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(S_Bank._S_BankDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(S_Bank._S_BankDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(S_Bank._S_BankDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:S_Bank._S_BankDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:S_Bank._S_BankDataSet1TableAdapters.TableAdapterManager.UpdateAll(S_Bank._S_BankDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:S_Bank._S_BankDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

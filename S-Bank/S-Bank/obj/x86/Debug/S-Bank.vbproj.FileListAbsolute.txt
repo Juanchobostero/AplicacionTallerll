@@ -1,0 +1,103 @@
+C:\Users\Juan Cruz\AppData\Local\Temporary Projects\S-Bank\bin\Debug\S-Bank.exe
+C:\Users\Juan Cruz\AppData\Local\Temporary Projects\S-Bank\bin\Debug\S-Bank.pdb
+C:\Users\Juan Cruz\AppData\Local\Temporary Projects\S-Bank\bin\Debug\S-Bank.xml
+C:\Users\Juan Cruz\AppData\Local\Temporary Projects\S-Bank\obj\x86\Debug\S_Bank.Resources.resources
+C:\Users\Juan Cruz\AppData\Local\Temporary Projects\S-Bank\obj\x86\Debug\S_Bank.SplashScreen1.resources
+C:\Users\Juan Cruz\AppData\Local\Temporary Projects\S-Bank\obj\x86\Debug\S-Bank.vbproj.GenerateResource.Cache
+C:\Users\Juan Cruz\AppData\Local\Temporary Projects\S-Bank\obj\x86\Debug\S-Bank.exe
+C:\Users\Juan Cruz\AppData\Local\Temporary Projects\S-Bank\obj\x86\Debug\S-Bank.xml
+C:\Users\Juan Cruz\AppData\Local\Temporary Projects\S-Bank\obj\x86\Debug\S-Bank.pdb
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S-Bank.exe
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S-Bank.xml
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S-Bank.pdb
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\bin\Debug\S-Bank.exe
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\bin\Debug\S-Bank.pdb
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\bin\Debug\S-Bank.xml
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.Resources.resources
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.SplashScreen1.resources
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S-Bank.vbproj.GenerateResource.Cache
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmInicioAdm.resources
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmRegistro.resources
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmLogin.resources
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmUsuarios.resources
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmNuevoTipoCuentaBancaria.resources
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAsignarCuenta.resources
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarCuentas.resources
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\bin\Debug\S-Bank.exe.config
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarServicios.resources
+F:\CopiaPen\Tercero\Taller de Programacion2\Primer proyecto\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarProveedor.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\bin\Debug\S-Bank.exe.config
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S-Bank.exe
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S-Bank.xml
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S-Bank.pdb
+F:\Otros\S-Bank\S-Bank\S-Bank\bin\Debug\S-Bank.exe
+F:\Otros\S-Bank\S-Bank\S-Bank\bin\Debug\S-Bank.pdb
+F:\Otros\S-Bank\S-Bank\S-Bank\bin\Debug\S-Bank.xml
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarProveedor.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarServicios.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmNuevoTipoCuentaBancaria.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAsignarCuenta.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmUsuarios.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmInicioAdm.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmRegistro.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarCuentas.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmLogin.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.Resources.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.SplashScreen1.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\bin\Debug\S-Bank.exe.config
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S-Bank.exe
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S-Bank.xml
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S-Bank.pdb
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\bin\Debug\S-Bank.exe
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\bin\Debug\S-Bank.pdb
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\bin\Debug\S-Bank.xml
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarProveedor.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarServicios.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmNuevoTipoCuentaBancaria.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAsignarCuenta.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmUsuarios.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmInicioAdm.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmRegistro.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmFormularioUsuario.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarCuentas.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmLogin.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.Resources.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.SplashScreen1.resources
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S-Bank.vbproj.GenerateResource.Cache
+C:\Users\Juan Cruz\Desktop\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAsignarCuenta2.resources
+F:\S-Bank\S-Bank\bin\Debug\S-Bank.exe.config
+F:\S-Bank\S-Bank\obj\x86\Debug\S-Bank.exe
+F:\S-Bank\S-Bank\obj\x86\Debug\S-Bank.xml
+F:\S-Bank\S-Bank\obj\x86\Debug\S-Bank.pdb
+I:\S-Bank\S-Bank\bin\Debug\S-Bank.exe.config
+I:\S-Bank\S-Bank\obj\x86\Debug\S-Bank.exe
+I:\S-Bank\S-Bank\obj\x86\Debug\S-Bank.xml
+I:\S-Bank\S-Bank\obj\x86\Debug\S-Bank.pdb
+I:\S-Bank\S-Bank\bin\Debug\S-Bank.exe
+I:\S-Bank\S-Bank\bin\Debug\S-Bank.pdb
+I:\S-Bank\S-Bank\bin\Debug\S-Bank.xml
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarProveedor.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarServicios.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmNuevoTipoCuentaBancaria.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAsignarCuenta.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmUsuarios.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmInicioAdm.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmRegistro.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAdministrarCuentas.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmLogin.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.Resources.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmPagarServicios.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.SplashScreen1.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S-Bank.vbproj.GenerateResource.Cache
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAsignarOtraCuenta.resources
+I:\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmFormUsuario.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmAsignarOtraCuenta.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmFormUsuario.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S_Bank.frmPagarServicios.resources
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Otros\S-Bank\S-Bank\S-Bank\bin\Debug\S-Bank.exe.config
+E:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S-Bank.exe
+E:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S-Bank.xml
+E:\Otros\S-Bank\S-Bank\S-Bank\obj\x86\Debug\S-Bank.pdb
